@@ -21,8 +21,8 @@ Practice
 1. Budget Alert
 ![Alt](budget.png)
 2. Ping to EC2
-![Alt](SG.png)
+![Alt](SG.PNG)
 3. Create IAM Role
-![Alt](role.png)
+![Alt](role.PNG)
 4. Deploy Node.js app
 http://3.0.147.1:3000/
